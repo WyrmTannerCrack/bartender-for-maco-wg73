@@ -1,4 +1,4 @@
-
+Bartender for macOS rare Extension - window-management and app-uninstaller is the best Bartender for macOS extension, featuring window-management and app-uninstaller. Safe,
 
 
 
